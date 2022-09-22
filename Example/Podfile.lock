@@ -1,0 +1,16 @@
+PODS:
+  - HCCMaskTextField (0.1.0)
+
+DEPENDENCIES:
+  - HCCMaskTextField (from `../`)
+
+EXTERNAL SOURCES:
+  HCCMaskTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HCCMaskTextField: 4515b99d69dcef4810346b5698d12962c9d7d798
+
+PODFILE CHECKSUM: ca740ab3620b564d7c9aeabb9205261dcb4cbd2a
+
+COCOAPODS: 1.11.0.beta.2

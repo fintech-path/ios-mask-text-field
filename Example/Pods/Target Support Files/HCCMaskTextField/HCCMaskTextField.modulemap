@@ -1,0 +1,6 @@
+framework module HCCMaskTextField {
+  umbrella header "HCCMaskTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}
